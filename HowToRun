@@ -1,3 +1,3 @@
 Install Docker in your local.
-Download file docker-compose file.
+Download file docker-compose file from Spring.Starter.CompanyMicroservice2/docker-compose.yml
 Execute command in  "docker compose up" in cmd, same path.
