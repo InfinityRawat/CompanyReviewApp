@@ -1,0 +1,3 @@
+Install Docker in your local.
+Download file docker-compose file.
+Execute command in  "docker compose up" in cmd, same path.
